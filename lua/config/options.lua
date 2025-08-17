@@ -1,5 +1,3 @@
-vim.cmd("colorscheme catppuccin-macchiato") -- set color theme
-
 vim.opt.termguicolors = true -- bufferline
 
 vim.opt.tabstop = 2 -- tab size
